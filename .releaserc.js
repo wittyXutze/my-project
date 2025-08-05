@@ -1,5 +1,5 @@
 module.exports = {
-  repositoryUrl: "https://github.com/OWNER/REPO",
+  "repositoryUrl": "https://github.com/wittyXutze/my-project.git"
   branches: ["main", { name: "rc", prerelease: true }],
   plugins: [
     "@semantic-release/commit-analyzer",
