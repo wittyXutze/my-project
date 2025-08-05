@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/wittyXutze/my-project/compare/v1.0.0...v1.0.1) (2025-08-05)
+
+
+### Bug Fixes
+
+* remove npm plugin to avoid missing token 1 ([9469688](https://github.com/wittyXutze/my-project/commit/9469688e3b91430cfc21e2d155e13b5f0c2ca301))
+
 # 1.0.0 (2025-08-05)
 
 
